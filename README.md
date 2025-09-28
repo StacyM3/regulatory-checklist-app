@@ -33,3 +33,32 @@ The app standardizes regulatory requirements (e.g., PPB checklists), enables **d
 ---
 
 ## 📂 Project Structure
+regulatory-checklist-app/
+│── main.py # Streamlit app entry point
+│── requirements.txt # Dependencies
+│── PRD.md # Product Requirements Document
+│── README.md # Project documentation
+
+The app will open in your browser at https://preview--submissio-buddy.lovable.app/
+
+📊 Roadmap
+
+Phase 1 (MVP): Core app with drug tracking, checklist progress, Excel export.
+
+Phase 2: Multi-drug dashboard view.
+
+Phase 3: Multi-user support and cloud storage.
+
+🧭 PRD
+
+The detailed Product Requirements Document (PRD) is available in PRD.md
+.
+
+🤝 Contributing
+
+Pull requests are welcome! Please open an issue first to discuss major changes.
+
+📜 License
+
+MIT
+ – free to use and adapt.
